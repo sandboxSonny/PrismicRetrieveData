@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "prismic-dom": "^2.2.7",
+    "prismic-javascript": "^3.0.2"
+  }
+}
